@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Sep 2022 15:35:22 -0300</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miprimerpost</title>
+      <link>http://example.org/posts/miprimerpost/</link>
+      <pubDate>Wed, 14 Sep 2022 15:35:22 -0300</pubDate>
+      
+      <guid>http://example.org/posts/miprimerpost/</guid>
+      <description>Esta es prueba 5, la segunda vez que pruebo con netlify
+path %PATH%;C:\Users\juan.nagy\Hugo
+cambiar el nombre del branch a &amp;ldquo;main&amp;rdquo; con GIT para que lo acepte mejor github
+notar que con git-bash capaz que funciona as\ �, sino git cmd, usar as\ �
+Thanks everyone - it works. In config.toml, I had to replace theme = \ &amp;ldquo;ananke\ &amp;quot; by theme = �ananke�
+Recordar
+GIT init
+GIT status
+GIT add -a</description>
+    </item>
+    
+  </channel>
+</rss>

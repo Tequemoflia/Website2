@@ -1,0 +1,3 @@
+Segundo archivo luego de init
+
+Este archivo se creó luego de init para ver si aparece en status como pendiente a commit

@@ -1,0 +1,11 @@
+C:\Users\Tequemoflia\Hugo\prueba5>git submodule add https://github.com/theNewDynam
+ic/gohugo-theme-ananke.git themes/ananke
+Cloning into 'C:/Users/Tequemoflia/Hugo/prueba5/themes/ananke'...
+remote: Enumerating objects: 2559, done.
+remote: Counting objects: 100% (582/582), done.
+remote: Compressing objects: 100% (330/330), done.
+remote: Total 2559 (delta 296), reused 438 (delta 218), pack-reused 1977
+Receiving objects: 100% (2559/2559), 4.46 MiB | 3.27 MiB/s, done.
+Resolving deltas: 100% (1393/1393), done.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory
