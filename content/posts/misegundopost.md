@@ -1,7 +1,7 @@
 ---
 title: "Misegundopost"
 date: 2022-09-22T16:30:16-03:00
-draft: true
+draft: false
 ---
 
 En este día en este repositorio y global se cambio el nombre de usuario de git y mail.
