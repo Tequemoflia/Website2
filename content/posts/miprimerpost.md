@@ -6,10 +6,16 @@ draft: false
 
 
 
-Esta es prueba 5, la segunda vez que pruebo con netlify
+Esta es prueba 6, la segunda vez que pruebo con netlify
 
 path %PATH%;C:\Users\juan.nagy\Hugo
 
+
+RECORDAR:
+
+GIT no sube carpetas vacías. En el caso de HUGO principalmente son: data, layouts, static
+
+meterle un archivito vacío con cualquier nombre para que conserve estructura de carpetas.
 
 
 cambiar el nombre del branch a "main" con GIT para que lo acepte mejor github
