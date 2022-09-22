@@ -6,22 +6,32 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Sep 2022 15:35:22 -0300</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 16:30:16 -0300</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misegundopost</title>
+      <link>http://example.org/posts/misegundopost/</link>
+      <pubDate>Thu, 22 Sep 2022 16:30:16 -0300</pubDate>
+      
+      <guid>http://example.org/posts/misegundopost/</guid>
+      <description>En este día en este repositorio y global se cambio el nombre de usuario de git y mail. Hacerlo así de ahora en mas. Ademas agrega otro post para probar y ademas
+RECORDAR:
+Es absolutamente necesrio [ git clone &amp;ndash;recurse-submodules &amp;hellip;] para clonar el repositorio de github porque sino tira el error &amp;ldquo;no layout file for &amp;ldquo;HTML&amp;rdquo; for kind &amp;ldquo;home&amp;rdquo;&amp;rdquo; https://discourse.gohugo.io/t/no-layout-file/38408/5
+GIT no sube carpetas vacías. En el caso de HUGO principalmente son: data, layouts, static</description>
+    </item>
+    
     <item>
       <title>Miprimerpost</title>
       <link>http://example.org/posts/miprimerpost/</link>
       <pubDate>Wed, 14 Sep 2022 15:35:22 -0300</pubDate>
       
       <guid>http://example.org/posts/miprimerpost/</guid>
-      <description>Esta es prueba 5, la segunda vez que pruebo con netlify
+      <description>Esta es prueba 6, la segunda vez que pruebo con netlify
 path %PATH%;C:\Users\juan.nagy\Hugo
+RECORDAR:
+GIT no sube carpetas vac�as. En el caso de HUGO principalmente son: data, layouts, static
+meterle un archivito vac�o con cualquier nombre para que conserve estructura de carpetas.
 cambiar el nombre del branch a &amp;ldquo;main&amp;rdquo; con GIT para que lo acepte mejor github
-notar que con git-bash capaz que funciona as\ �, sino git cmd, usar as\ �
-Thanks everyone - it works. In config.toml, I had to replace theme = \ &amp;ldquo;ananke\ &amp;quot; by theme = �ananke�
-Recordar
-GIT init
-GIT status
-GIT add -a</description>
+notar que con git-bash capaz que funciona as\ �, sino git cmd, usar as\ �</description>
     </item>
     
   </channel>
